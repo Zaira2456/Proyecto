@@ -6,17 +6,17 @@ En su labor como Ingeniero de Sistemas a sido seleccionado para desarrollar una 
 
 ## APROXIMACIÓN PLANTILLA HISTORIA DE USUARIO:
  
-![HISTORIA DE USUARIO](imagenes/imagen1.png)
+![HISTORIA DE USUARIO](imagen1.png)
 
 
 
 
 
 ## APROXIMACIÓN CASO DE USO:
- ![CASO DE USO](imagenes/imagen2.png)
+ ![CASO DE USO](imagen2.png)
 
 ## APROXIMACIÓN DIAGRAMA DE FLUJO:
- ![DIAGRAMA DE FLUJO](imagenes/imagen3.png)
+ ![DIAGRAMA DE FLUJO](imagen3.png)
 
 
 ## APROXIMACIÓN SEUDOCODIGO:
