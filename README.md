@@ -13,7 +13,7 @@ En su labor como Ingeniero de Sistemas a sido seleccionado para desarrollar una 
 
 
 ## APROXIMACIÓN CASO DE USO:
- ![CASO DE USO](imagen2.png)
+ ![CASO DE USO](imagen2-1.png)
 
 ## APROXIMACIÓN DIAGRAMA DE FLUJO:
  ![DIAGRAMA DE FLUJO](imagen3.png)
