@@ -6,7 +6,7 @@ En su labor como Ingeniero de Sistemas a sido seleccionado para desarrollar una 
 
 ## APROXIMACIÓN PLANTILLA HISTORIA DE USUARIO:
  
-![HISTORIA DE USUARIO](imagen1.png)
+![HISTORIA DE USUARIO](imagen1-1.png)
 
 
 
