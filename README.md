@@ -22,11 +22,17 @@ En su labor como Ingeniero de Sistemas a sido seleccionado para desarrollar una 
 ## APROXIMACIÓN SEUDOCODIGO:
 Inicio
      Caracteres: codigos[50], nombres[50]
+     
      Real: productos1[50], productos2[50], productos3[50]
+     
      Caracteres: codigo, nombre
+     
      Entero: numClientes, i
+     
      Real: panuno, pandos, pantres, costototal <- 0
+     
      Imprimir: ‘Digite el número de Clientes:’
+     
      Asignar: numClientes, i
      Para: i=0 hasta numClientes - 1, 1
      Imprimir: ‘Digite el codigo del pedido: ’
