@@ -2,6 +2,7 @@
 En su labor como Ingeniero de Sistemas a sido seleccionado para desarrollar una aplicación que es requerida para un negocio de panadería, el dueño del establecimiento necesita que se calcule el valor total de la compra del cliente, dependiendo de la cantidad de artículos que a sean seleccionado , facturándolo con el nombre del cliente.
 ## ACLARACIONES:
 •	No se realiza validación de los datos ingresados.
+
 •	La aplicación debe que calcular el costo de los artículos seleccionados y dar a conocer el valor total de la compra.
 
 ## APROXIMACIÓN PLANTILLA HISTORIA DE USUARIO:
